@@ -14,3 +14,8 @@ If you want to install and check this task, so you need follow that sequence of 
 - Package
 - Queries
 ```
+
+#Installer for Oracle objects inside
+
+You need to download [GitBash](https://git-scm.com/download/win) tool for executing shell script "installer.sh", if your operation system is Windows.
+The script dynamicly creates script and installs objects in preset order. Also, you need to install sqlplus tool on a computer.
